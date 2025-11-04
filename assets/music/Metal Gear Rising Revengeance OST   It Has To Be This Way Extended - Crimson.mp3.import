@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cnfc47kx8igry"
+path="res://.godot/imported/Metal Gear Rising Revengeance OST   It Has To Be This Way Extended - Crimson.mp3-a15f5fcc9888c93f9af8299322b5efb3.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Metal Gear Rising Revengeance OST   It Has To Be This Way Extended - Crimson.mp3"
+dest_files=["res://.godot/imported/Metal Gear Rising Revengeance OST   It Has To Be This Way Extended - Crimson.mp3-a15f5fcc9888c93f9af8299322b5efb3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

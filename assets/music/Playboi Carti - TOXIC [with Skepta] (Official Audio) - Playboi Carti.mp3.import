@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b4awovye3i325"
+path="res://.godot/imported/Playboi Carti - TOXIC [with Skepta] (Official Audio) - Playboi Carti.mp3-6edcee3f95b9edb099eb911502288ef5.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Playboi Carti - TOXIC [with Skepta] (Official Audio) - Playboi Carti.mp3"
+dest_files=["res://.godot/imported/Playboi Carti - TOXIC [with Skepta] (Official Audio) - Playboi Carti.mp3-6edcee3f95b9edb099eb911502288ef5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

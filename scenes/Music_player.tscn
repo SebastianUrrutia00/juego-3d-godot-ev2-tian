@@ -1,7 +1,7 @@
 [gd_scene load_steps=2 format=3 uid="uid://drh5vyimjuixn"]
 
-[ext_resource type="AudioStream" uid="uid://laqstftc2svj" path="res://Assets/music/House In a Forest Loop.ogg" id="1_ia3ud"]
+[ext_resource type="AudioStream" uid="uid://dbo2fd8yetlir" path="res://assets/music/como-yo-me-muevo-128-ytshorts.savetube.me.mp3" id="1_ymk56"]
 
 [node name="MusicPlayer" type="AudioStreamPlayer"]
-stream = ExtResource("1_ia3ud")
+stream = ExtResource("1_ymk56")
 autoplay = true
